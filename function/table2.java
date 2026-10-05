@@ -1,6 +1,6 @@
 package function;
 
-public class function5 {
+public class table2 {
 
     static void print2kaTable() {
         for (int i = 1; i <= 10; i++) {

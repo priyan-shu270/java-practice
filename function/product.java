@@ -2,7 +2,7 @@ package function;
 
 import java.util.Scanner;
 
-public class function3 {
+public class product {
     public static int calculateProduct(int a , int b) {
         return a*b;
     }

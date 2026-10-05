@@ -2,7 +2,7 @@ package function;
 
 import java.util.Scanner;
 
-public class function2 {
+public class sum {
     public static int calculateSum(int a , int b) {
         int sum =a+b;
         
